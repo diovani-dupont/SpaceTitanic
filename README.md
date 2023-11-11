@@ -3,6 +3,10 @@ SpaceshipTitanic
 
 The following code is a script developed for the Spaceship Titanic competition, it proposes a scenario where the spaceship collides with a space anomaly. The challenge is to predict, based on a given dataset, which passengers were transported.
 
+<p align="center">
+<img src="https://github.com/diovani-dupont/SpaceTitanic/assets/109030838/4a3bff57-83d2-423d-b2db-c7711682fba7" alt="BirdCleff" width="900">
+</p>
+
 Project Organization
 ------------
 
